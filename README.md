@@ -1,3 +1,28 @@
+# ⏱️ React Native Timer App
+
+A simple and beautiful multi-timer app built with **React Native**. You can create timers by duration, organize them by categories, track progress, and get notified when they complete — even in the background (Android only).
+
+---
+
+## 🚀 Features
+
+- ⏳ Create custom timers (with hours, minutes, seconds)
+- 📂 Group timers into categories (Work, Study, Exercise, Break, Other)
+- ▶️ Start, ⏸️ Pause, 🔄 Reset individual or grouped timers
+- 📜 View history of completed timers
+- 🔔 Local notifications on completion (via Notifee)
+- 💾 Timers auto-save and persist across sessions
+- 🌗 Works in background on Android
+
+---
+
+## 📦 Setup Instructions
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/BrijeshkChaubey/Temers.git
+cd Temers
 <<<<<<< HEAD
 # Temers
 It is app which is use to create use customized timers
@@ -8,19 +33,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## Step 1: Start the Metro Server
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
 
 ## Step 2: Start your Application
 
